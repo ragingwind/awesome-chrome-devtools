@@ -17,9 +17,18 @@ Show How to use Frame in devtools to improve CSS performance by using rAF
 
 ##  [Chrome DevTools - Live Edit CSS, Save to Disk 2012 - YouTube](https://goo.gl/rJTUI9)
 
+## [The Breakpoint Ep. 2: Chrome DevTools with Paul Irish and Addy Osmani - YouTube](https://goo.gl/AQZP3F)
+
+- Support css/sass live editing
+- remap $, $$
+- theme for DevTools
+- inspect shadow dom and more
+- yeoman
+- break point for global events
+
 ## [Google I/O 2013 - Chrome DevTools Revolutions 2013 - YouTube](https://goo.gl/0q8dY)
 
-CSS Authoring
+- CSS Authoring
 
 ## [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014 - YouTube](https://goo.gl/hqCGIl)
 
